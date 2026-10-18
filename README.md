@@ -1,12 +1,10 @@
 <h1 align="center">Object Oriented Programming using Python</h1>
-<h3 align="center">Practical File: 15 Programs</h3>
 
-| Detail | Information |
+
 | :--- | :--- |
 | **Name** | Shivam Pal |
 | **Roll No.** | 26570055 |
 | **Programme** | B.Sc. (Hons.) Computer Science, Semester I |
-| **Paper** | Object Oriented Programming using Python |
 | **College** | Ramanujan College, University of Delhi |
 | **Tool** | Python 3 |
 
@@ -30,29 +28,6 @@
 | 14 | [Class 3DPoint (Inheritance)](#practical-14-class-3dpoint-inheritance) | [`practical_14_point3d.py`](programs/practical_14_point3d.py) |
 | 15 | [Exception Handling](#practical-15-exception-handling) | [`practical_15_exception_handling.py`](programs/practical_15_exception_handling.py) |
 
-### About this file
-
-All 15 programs of the practical list are here. Each practical has the same layout: **Question, Concepts used, Program, Sample input, Output**. The **Output** box under each program is left empty for you to paste your own output or screenshot.
-
-### Repository structure
-
-```
-Python-OOP-Practical/
-|-- README.md
-`-- programs/
-    |-- practical_01_quadratic.py
-    |-- practical_02_prime_numbers.py
-    |-- ...
-    `-- practical_15_exception_handling.py
-```
-
-### How to run
-
-1. Install [Python 3](https://www.python.org/downloads/).
-2. Open a terminal in the repository folder.
-3. Run any program, for example: `python programs/practical_01_quadratic.py`
-
-Notes: Practical 9 creates `sample.txt`, `File1` and `File2` in the folder you run it from. Practical 14 needs `practical_13_point2d.py` in the same folder. Practical 12 ends with an error message on purpose.
 
 ---
 
