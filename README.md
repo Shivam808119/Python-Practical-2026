@@ -1,12 +1,23 @@
 <h1 align="center">Object Oriented Programming using Python</h1>
 
 
-| :--- | :--- |
+
+## Student Information
+
+| **Field** | **Details** |
+|:---|:---|
 | **Name** | Shivam Pal |
-| **Roll No.** | 26570055 |
-| **Programme** | B.Sc. (Hons.) Computer Science, Semester I |
-| **College** | Ramanujan College, University of Delhi |
-| **Tool** | Python 3 |
+| **Roll Number** | 26570055 |
+| **Programme** | B.Sc. (Hons.) Computer Science |
+| **Semester** | I |
+| **College** | Ramanujan College |
+| **University** | University of Delhi |
+| **Tool / Language** | Python 3 |
+
+---
+
+**Topics:** Linear Algebra and Vector Calculus
+
 
 ## Contents
 
