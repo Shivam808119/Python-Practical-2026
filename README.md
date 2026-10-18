@@ -457,14 +457,8 @@ print("b) Using list comprehension:", cubes_comp)
 
 **Output**
 
-```text
+<img width="1376" height="210" alt="image" src="https://github.com/user-attachments/assets/a35ac03a-0d92-44af-bc39-f2e31f8a8e6e" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -543,14 +537,8 @@ print("\nd) Even lines copied to 'File1' and odd lines copied to 'File2'.")
 
 **Output**
 
-```text
+<img width="1847" height="955" alt="image" src="https://github.com/user-attachments/assets/58bebfd8-34ef-4d62-878f-8f0838e0a17f" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -582,14 +570,8 @@ print_cubes_dict()
 
 **Output**
 
-```text
+<img width="1392" height="201" alt="image" src="https://github.com/user-attachments/assets/7a9c5a3c-8399-412c-ae18-e08cf742fe47" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -646,14 +628,8 @@ print("   Minimum value:", minimum)
 
 **Output**
 
-```text
+<img width="1387" height="376" alt="image" src="https://github.com/user-attachments/assets/d46ff63e-bf4a-4f9b-8575-865e3219efa2" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -751,14 +727,8 @@ print("This line is never reached.")
 
 **Output**
 
-```text
+<img width="1851" height="967" alt="image" src="https://github.com/user-attachments/assets/911ce498-9a4a-4b50-9f4a-f8b548b2dd27" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -824,14 +794,8 @@ if __name__ == "__main__":
 
 **Output**
 
-```text
+<img width="1492" height="382" alt="image" src="https://github.com/user-attachments/assets/f0b82b84-53ad-400d-b63e-f0ce34abbed3" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -902,14 +866,8 @@ if __name__ == "__main__":
 
 **Output**
 
-```text
+<img width="1442" height="402" alt="image" src="https://github.com/user-attachments/assets/8eba6478-a39a-4e00-a9b6-7ea965c8209d" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -964,14 +922,8 @@ while True:
 
 **Output**
 
-```text
+<img width="1491" height="417" alt="image" src="https://github.com/user-attachments/assets/80e423cd-af68-4732-b3f8-fa5a06b86f81" />
 
-
-
-
-
-
-```
 
 ---
 
