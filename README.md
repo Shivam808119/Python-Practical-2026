@@ -6,7 +6,7 @@
 | **Roll No.** | 26570055 |
 | **Course / Semester** | B.Sc. (Hons.) Computer Science, Semester I |
 | **College** | Ramanujan College, University of Delhi |
-| **Submitted To** | Dr. Aakash |
+| **Submitted To** | Mr. Vipin Rathi |
 | **Session** | 2026–27 |
 | **Tool** | Python 3 |
 
