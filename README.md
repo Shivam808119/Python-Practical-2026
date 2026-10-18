@@ -85,18 +85,13 @@ else:
         print("x1 =", r1, "\nx2 =", r2)
 ```
 
-**Sample input to try:** `a = 1`, `b = -3`, `c = 2` (roots 2 and 1); then `1, 2, 5` for complex roots
+**Sample input to try:** `a = 1`, `b = -3`, `c = 2` 
 
 **Output**
 
-```text
 
+<img width="1531" height="362" alt="image" src="https://github.com/user-attachments/assets/60c45266-7430-4cd3-9535-25f2b2d63b42" />
 
-
-
-
-
-```
 
 ---
 
@@ -169,14 +164,8 @@ print(f"c) First {n} prime numbers:", first_n_primes(n))
 
 **Output**
 
-```text
+<img width="1462" height="252" alt="image" src="https://github.com/user-attachments/assets/2182d0ee-fd97-4484-8272-ba250abb4058" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -206,10 +195,10 @@ def reverse_pyramid(rows):
 
 rows = int(input("Enter the number of rows: "))
 
-print("\nPyramid:")
+print("\nPyramid:\n")
 pyramid(rows)
 
-print("\nReverse pyramid:")
+print("\nReverse pyramid:\n")
 reverse_pyramid(rows)
 ```
 
@@ -217,14 +206,8 @@ reverse_pyramid(rows)
 
 **Output**
 
-```text
+<img width="1487" height="512" alt="image" src="https://github.com/user-attachments/assets/497f3ea5-2ca4-4068-8e0a-382dbbc31329" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -272,14 +255,8 @@ else:
 
 **Output**
 
-```text
+<img width="1502" height="466" alt="image" src="https://github.com/user-attachments/assets/34d87f86-99d7-416b-a153-26ad6e7b1a64" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -354,14 +331,8 @@ print("   Result:", remove_all(text, ch))
 
 **Output**
 
-```text
+<img width="1457" height="412" alt="image" src="https://github.com/user-attachments/assets/de401a1c-d547-40ea-b991-38f2d6cecc93" />
 
-
-
-
-
-
-```
 
 ---
 
@@ -398,14 +369,7 @@ else:
 
 **Output**
 
-```text
-
-
-
-
-
-
-```
+<img width="1470" height="297" alt="image" src="https://github.com/user-attachments/assets/3e8645ad-9b7e-444d-bf2b-8b1139666ef0" />
 
 ---
 
@@ -445,14 +409,8 @@ else:
 
 **Output**
 
-```text
+<img width="1462" height="262" alt="image" src="https://github.com/user-attachments/assets/a7753806-161c-4b6a-8a22-adea15d2c41c" />
 
-
-
-
-
-
-```
 
 ---
 
