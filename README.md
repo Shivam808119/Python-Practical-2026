@@ -16,7 +16,6 @@
 
 ---
 
-**Topics:** Linear Algebra and Vector Calculus
 
 
 ## Contents
